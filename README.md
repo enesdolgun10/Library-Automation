@@ -135,4 +135,4 @@ Bu proje [MIT License](LICENSE) altında lisanslanmıştır.
 
 ### 👨‍💻 Geliştirici
 
-**Enes Dolgun** - [GitHub Profiliniz](https://github.com/enesdolgun33)
+**Enes Dolgun** - [LinkedIn Hesabım](https://www.linkedin.com/in/enesdolgun10/)
