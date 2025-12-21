@@ -127,9 +127,6 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 4.  Dalınızı pushlayın (`git push origin yeni-ozellik`).
 5.  Bir Pull Request oluşturun.
 
-## 📄 Lisans
-
-Bu proje [MIT License](LICENSE) altında lisanslanmıştır.
 
 ---
 
