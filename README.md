@@ -133,3 +133,6 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 ### 👨‍💻 Geliştirici
 
 **Enes Dolgun** - [LinkedIn Hesabım](https://www.linkedin.com/in/enesdolgun10/)
+**Enes Turan** - [LinkedIn Hesabım](https://www.linkedin.com/in/enesturan0/)
+
+
