@@ -52,7 +52,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 1.  **Projeyi Klonlayın:**
 
     ```bash
-    git clone [https://github.com/enesdolgun10/library-automation.git](https://github.com/enesdolgun33/library-automation.git)
+    git clone https://github.com/enesdolgun10/library-automation.git
     ```
 
 2.  **Veritabanını Oluşturun:**
